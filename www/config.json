@@ -87,7 +87,7 @@
     "forceColorScheme": "",
     "ioswebviewscheme": "moodleappfs",
     "appstores": {
-        "android": "com.moodle.moodlemobile",
+        "android": "com.mimber.academy",
         "ios": "id633359593",
         "windows": "moodle-desktop\/9p9bwvhdc8c8",
         "mac": "id1255924440",
