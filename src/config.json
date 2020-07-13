@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "com.mimber.academy",
+    "appname": "Mimber Academy",
+    "desktopappname": "Mimber Academy",
     "versioncode": 3910,
     "versionname": "3.9.1",
     "cache_update_frequency_usually": 420000,
