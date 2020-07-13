@@ -78,8 +78,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "http://mimber.academy/moodle",
+    "sitename": "Mimber Academy",
     "multisitesdisplay": "",
     "onlyallowlistedsites": false,
     "skipssoconfirmation": false,
